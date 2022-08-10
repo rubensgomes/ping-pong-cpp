@@ -1,6 +1,8 @@
-# Ping Pong Simulator
+# Justification for this project
 
-This is a very simple C++ code that simulates a pingpong tournament.  
+NOTE: This code is not fully tested, and should be considered under development code.
+
+This is a very simple C++ code that simulates a ping-pong tournament.  
 The players along with statistics of in-bound serving/returning the ball
 are found in the "data.csv" file.
 
