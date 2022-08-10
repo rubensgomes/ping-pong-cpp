@@ -1,6 +1,7 @@
 # Justification for this project
 
 NOTE: This code is not fully tested, and should be considered under development code.
+The source code that is provided are  mainly used for demonostrations and learning purposes only.
 
 This is a very simple C++ code that simulates a ping-pong tournament.  
 The players along with statistics of in-bound serving/returning the ball
